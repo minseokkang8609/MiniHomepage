@@ -32,4 +32,4 @@
 
 ### IMG
 
-![test](/Users/mskang/Documents/GitGitHub/MiniHomepage/test.png)
+![test](https://github.com/minseokkang8609/MiniHomepage/blob/main/test.png?raw=true)
