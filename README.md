@@ -27,3 +27,9 @@
     b = 5
     print(a+b)
 ```
+
+---
+
+### IMG
+
+![test](/Users/mskang/Documents/GitGitHub/MiniHomepage/test.png)
