@@ -22,6 +22,8 @@
 
 # contact us
 
+# Footer 추가
+
 ---
 
 ## 민석이의 정보
